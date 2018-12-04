@@ -1,0 +1,6 @@
+Bob
+boba
+Boban
+
+
+comma seperated value #тип даних ,де дані розділі комою та рядками
